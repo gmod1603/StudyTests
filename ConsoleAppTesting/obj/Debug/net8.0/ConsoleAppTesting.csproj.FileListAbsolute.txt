@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Documents\College Course Stuff\General Studying\C# StudyTest\StudyTests\ConsoleAppTesting\bin\Debug\net8.0\ConsoleAppTesting.exe
+C:\Users\danie\OneDrive\Documents\College Course Stuff\General Studying\C# StudyTest\StudyTests\ConsoleAppTesting\bin\Debug\net8.0\ConsoleAppTesting.deps.json
+C:\Users\danie\OneDrive\Documents\College Course Stuff\General Studying\C# StudyTest\StudyTests\ConsoleAppTesting\bin\Debug\net8.0\ConsoleAppTesting.runtimeconfig.json
+C:\Users\danie\OneDrive\Documents\College Course Stuff\General Studying\C# StudyTest\StudyTests\ConsoleAppTesting\bin\Debug\net8.0\ConsoleAppTesting.dll
+C:\Users\danie\OneDrive\Documents\College Course Stuff\General Studying\C# StudyTest\StudyTests\ConsoleAppTesting\bin\Debug\net8.0\ConsoleAppTesting.pdb
+C:\Users\danie\OneDrive\Documents\College Course Stuff\General Studying\C# StudyTest\StudyTests\ConsoleAppTesting\obj\Debug\net8.0\ConsoleAppTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Documents\College Course Stuff\General Studying\C# StudyTest\StudyTests\ConsoleAppTesting\obj\Debug\net8.0\ConsoleAppTesting.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Documents\College Course Stuff\General Studying\C# StudyTest\StudyTests\ConsoleAppTesting\obj\Debug\net8.0\ConsoleAppTesting.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Documents\College Course Stuff\General Studying\C# StudyTest\StudyTests\ConsoleAppTesting\obj\Debug\net8.0\ConsoleAppTesting.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documents\College Course Stuff\General Studying\C# StudyTest\StudyTests\ConsoleAppTesting\obj\Debug\net8.0\ConsoleAppTesting.sourcelink.json
+C:\Users\danie\OneDrive\Documents\College Course Stuff\General Studying\C# StudyTest\StudyTests\ConsoleAppTesting\obj\Debug\net8.0\ConsoleAppTesting.dll
+C:\Users\danie\OneDrive\Documents\College Course Stuff\General Studying\C# StudyTest\StudyTests\ConsoleAppTesting\obj\Debug\net8.0\refint\ConsoleAppTesting.dll
+C:\Users\danie\OneDrive\Documents\College Course Stuff\General Studying\C# StudyTest\StudyTests\ConsoleAppTesting\obj\Debug\net8.0\ConsoleAppTesting.pdb
+C:\Users\danie\OneDrive\Documents\College Course Stuff\General Studying\C# StudyTest\StudyTests\ConsoleAppTesting\obj\Debug\net8.0\ConsoleAppTesting.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Documents\College Course Stuff\General Studying\C# StudyTest\StudyTests\ConsoleAppTesting\obj\Debug\net8.0\ref\ConsoleAppTesting.dll
