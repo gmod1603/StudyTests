@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\danie\\OneDrive\\Documents\\College Course Stuff\\General Studying\\C# StudyTest\\StudyTests\\AnimalMatchingGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11B5040E-6FAB-4986-BC45-885386D1B224}|AnimalMatchingGame.csproj|c:\\users\\danie\\onedrive\\documents\\college course stuff\\general studying\\c# studytest\\studytests\\animalmatchinggame\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{11B5040E-6FAB-4986-BC45-885386D1B224}|AnimalMatchingGame.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{11B5040E-6FAB-4986-BC45-885386D1B224}|AnimalMatchingGame.csproj|c:\\users\\danie\\onedrive\\documents\\college course stuff\\general studying\\c# studytest\\studytests\\animalmatchinggame\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11B5040E-6FAB-4986-BC45-885386D1B224}|AnimalMatchingGame.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B5040E-6FAB-4986-BC45-885386D1B224}|AnimalMatchingGame.csproj|c:\\users\\danie\\onedrive\\documents\\college course stuff\\general studying\\c# studytest\\studytests\\animalmatchinggame\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{11B5040E-6FAB-4986-BC45-885386D1B224}|AnimalMatchingGame.csproj|solutionrelative:mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B5040E-6FAB-4986-BC45-885386D1B224}|AnimalMatchingGame.csproj|c:\\users\\danie\\onedrive\\documents\\college course stuff\\general studying\\c# studytest\\studytests\\animalmatchinggame\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11B5040E-6FAB-4986-BC45-885386D1B224}|AnimalMatchingGame.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documents\\College Course Stuff\\General Studying\\C# StudyTest\\StudyTests\\AnimalMatchingGame\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -55,12 +59,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documents\\College Course Stuff\\General Studying\\C# StudyTest\\StudyTests\\AnimalMatchingGame\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documents\\College Course Stuff\\General Studying\\C# StudyTest\\StudyTests\\AnimalMatchingGame\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-15T20:25:46.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documents\\College Course Stuff\\General Studying\\C# StudyTest\\StudyTests\\AnimalMatchingGame\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\danie\\OneDrive\\Documents\\College Course Stuff\\General Studying\\C# StudyTest\\StudyTests\\AnimalMatchingGame\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAzwDIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-15T20:19:28.376Z",
               "EditorCaption": ""
